@@ -5,10 +5,10 @@
 | Metric | Count |
 | ------ | ----- |
 | Code files | 2 |
-| Notes | 1 |
-| Sheet problems | 1 |
+| Notes | 2 |
+| Sheet problems | 2 |
 | Standalone problems | 1 |
-| Last synced | 2026-04-23 |
+| Last synced | 2026-04-24 |
 
 ---
 
