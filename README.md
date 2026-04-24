@@ -1,6 +1,6 @@
 # TrackAsap — rajgupta04's Solutions
 
-> Auto-synced from [TrackAsap](https://trackasap.vercel.app)
+> Auto-synced from [TrackAsap](https://track-asap.vercel.app)
 
 | Metric | Count |
 | ------ | ----- |
