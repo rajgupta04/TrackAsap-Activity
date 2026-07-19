@@ -4,9 +4,9 @@
 
 | Metric | Count |
 | ------ | ----- |
-| Code files | 8 |
-| Notes | 9 |
-| Sheet problems | 11 |
+| Code files | 9 |
+| Notes | 10 |
+| Sheet problems | 12 |
 | Standalone problems | 0 |
 | Last synced | 2026-07-19 |
 
