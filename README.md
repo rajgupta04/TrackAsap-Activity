@@ -4,11 +4,11 @@
 
 | Metric | Count |
 | ------ | ----- |
-| Code files | 21 |
+| Code files | 109 |
 | Notes | 22 |
 | Sheet problems | 24 |
-| Standalone problems | 0 |
-| Last synced | 2026-07-26 |
+| Standalone problems | 88 |
+| Last synced | 2026-07-27 |
 
 ---
 
