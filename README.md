@@ -8,7 +8,7 @@
 | Notes | 40 |
 | Sheet problems | 44 |
 | Standalone problems | 88 |
-| Last synced | 2026-08-11 |
+| Last synced | 2026-08-12 |
 
 ---
 
