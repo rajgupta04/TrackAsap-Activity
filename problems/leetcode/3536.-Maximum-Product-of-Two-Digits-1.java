@@ -5,7 +5,7 @@ class Solution {
             l.add(n%10);
             n/=10;
         }
-        l.sort(Comparator.naturalOrder());
+        l.sort();
         return l.get(l.size()-1)*l.get(l.size()-2);
     }
 }

@@ -1,8 +1,11 @@
 class Solution {
-    public int maximumProduct(int[] nums) {
-        
-        Arrays.sort(nums);
-        int n= nums.length;
-        return Math.max(nums[n-1]*nums[n-2] * nums[n-3],nums[0]*nums[1]*nums[n-1]);
+    public int maxProduct(int n) {
+        List<Integer> l= new ArrayList<>();
+        while(n>0){
+            l.add(n%10);
+            n/=10;
+        }
+        l.sort(Collections.reverseOrder());
+        return l.get(0)*l.get(1);
     }
 }

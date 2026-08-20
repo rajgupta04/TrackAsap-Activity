@@ -1,4 +1,5 @@
 class Solution {
+    //realized the coin change I is more complexx
     public int change(int sum, int[] coins) {
         int n=coins.length;
         int[][] dp= new int[n+1][sum+1];
