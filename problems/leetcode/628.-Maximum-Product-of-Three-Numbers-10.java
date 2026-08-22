@@ -7,6 +7,6 @@ class Solution {
             pre[i]=pre[i-1]*nums[i];
         }
         
-        return nums[n-1] * Math.max(nums[n-2] * nums[n-3],nums[0]*nums[1]);
+        return nums[n-1] * nums[n-2] * nums[n-3];
     }
 }
