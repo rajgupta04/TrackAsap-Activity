@@ -27,6 +27,7 @@ class Solution {
             min= Math.min(min,temp);
         }
         return dp[n][k]=min;
+      //that's all
     }
     
 }
